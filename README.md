@@ -7,8 +7,9 @@ The goal would be to use sophisticated algorithms like grover's search algorithm
 But for now,we have used simple hadamard gates to produce random chords and rhythm,and play music via SonicPi.
 
 It is built with:
-• Quiskit
-• Sonic Pi
+
+• [Sonic Pi](https://sonic-pi.net/)
+• [Qiskit](https://qiskit.org/)
 • Python
 • Jupyter Notebook
 
