@@ -5,7 +5,7 @@ Our goal is to create a website that could create random music of different inst
 to provide with pure randomness.
 The goal would be to use sophisticated algorithms like grover's search algorithm and basak-Miranda algorithm
 But for now,we have used simple hadamard gates to produce random chords and rhythm,and play music via Sonicpi.
-Reference materials:https://github.com/AkeelMedina22/Quantum-Computer-Music
+Reference materials:https://arxiv.org/pdf/2110.12408.pdf
 Worked upon by:
 N.Arutkeeerthi 20311016
 Akash Singh Yadav 20311003
