@@ -11,7 +11,7 @@ It is built with:
 • [Sonic Pi](https://sonic-pi.net/)
 • [Qiskit](https://qiskit.org/)
 • [Python](https://www.python.org/)
-• [Jupyter Notebook}(https://jupyter.org/)
+• [Jupyter Notebook](https://jupyter.org/)
 
 
 Reference materials:https://arxiv.org/pdf/2110.12408.pdf
