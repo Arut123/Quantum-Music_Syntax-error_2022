@@ -1,6 +1,6 @@
 # Quantum-Music_Syntax-error_2022
-This is for syntax error sds labs hackathon 2022
-Creating progressive random music using quantum gates to provide pure randomness
+This project is done for for Syntax Error SDS Labs Hackathon 2022.
+Creating progressive random music using quantum gates to provide pure randomness.
 Our goal is to create a website that could create random music of different instruments using quantum gates and algorithms
 to provide with pure randomness.
 The goal would be to use sophisticated algorithms like grover's search algorithm and basak-Miranda algorithm.
