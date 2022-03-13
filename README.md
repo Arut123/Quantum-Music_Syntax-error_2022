@@ -10,14 +10,14 @@ It is built with:
 
 • [Sonic Pi](https://sonic-pi.net/)
 • [Qiskit](https://qiskit.org/)
-• Python
-• Jupyter Notebook
+• [Python](https://www.python.org/)
+• [Jupyter Notebook}(https://jupyter.org/)
 
 
 Reference materials:https://arxiv.org/pdf/2110.12408.pdf
 
 
-Output demo: https://youtu.be/UlSm1tyf39Y
+Output demo:[Team NL89 Syntex Error Hackathon'22 Submission Output Demo](https://youtu.be/UlSm1tyf39Y)
 
 Worked upon by:
 N.Arutkeeerthi 20311016
